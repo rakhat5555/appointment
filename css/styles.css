@@ -1,3 +1,7 @@
 #story {
   display: none;
 }
+
+.modal {
+  display: none;
+}
